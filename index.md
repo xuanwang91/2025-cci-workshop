@@ -53,11 +53,11 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
     </tr>
     <tr>
       <td style="border: 1px solid black;">1 PM - 2 PM</td>
-      <td style="border: 1px solid black;"><b>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca">Zijian Zhang</a></b>, Ph.D. Student, Vector Institute at the University of Toronto, <b><i>AI Agents for Quantum Experiments</i></b>b></td>
+      <td style="border: 1px solid black;"><b>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca">Zijian Zhang</a></b>, Ph.D. Student, Vector Institute at the University of Toronto, <b><i>AI Agents for Quantum Experiments</i></b></td>
     </tr>
     <tr>
       <td style="border: 1px solid black;">2 PM - 3 PM</td>
-      <td style="border: 1px solid black;"><b>Invited Talk: <a href="https://guangyuwanglab.github.io/web/">Dr. Guangyu Wang</a></b>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <b><i>Foundation Models for Multi-Omics and Spatial Omics</i></b>b></td>
+      <td style="border: 1px solid black;"><b>Invited Talk: <a href="https://guangyuwanglab.github.io/web/">Dr. Guangyu Wang</a></b>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <b><i>Foundation Models for Multi-Omics and Spatial Omics</i></b></td>
     </tr>
   </tbody>
 </table>
