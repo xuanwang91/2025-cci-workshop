@@ -22,11 +22,6 @@ We highly recommend that people attend our workshop in person, as this will faci
 The registration deadline is **Sunday, April 27, 2025**. Here is the registration link: [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSfglmDaF_TCaKWbVivQV4LXLORHOkpKnEn_JaIWet_DmtXySQ/viewform?usp=dialog).
 
 
-## Organizers
-- [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
-- [**Jun Hou**](https://www.linkedin.com/in/jun-hou-1392b8149/), PhD Student, Department of Computer Science, Virginia Tech
-
-
 ## Workshop Schedule
 Below is a tentative schedule for our workshop. We look forward to seeing everyone at the workshop!
 
@@ -61,6 +56,11 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
     </tr>
   </tbody>
 </table>
+
+
+## Organizers
+- [**Xuan Wang**](https://xuanwang91.github.io/), Assistant Professor, Department of Computer Science, Virginia Tech
+- [**Jun Hou**](https://www.linkedin.com/in/jun-hou-1392b8149/), PhD Student, Department of Computer Science, Virginia Tech
 
 
 ## Sponsor
