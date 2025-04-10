@@ -42,22 +42,22 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
 <table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="width: 200px;">Time</th>
-      <th>Event</th>
+      <th style="width: 200px; border: 1px solid black;">Time</th>
+      <th style="border: 1px solid black;">Event</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>12:30 PM - 1 PM</td>
-      <td>Student Research Highlights</td>
+      <td style="border: 1px solid black;">12:30 PM - 1 PM</td>
+      <td style="border: 1px solid black;">Student Research Highlights</td>
     </tr>
     <tr>
-      <td>1 PM - 2 PM</td>
-      <td>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca"><b>Zijian Zhang</b></a>, Ph.D. Student, Vector Institute at the University of Toronto, <i>AI Agents for Quantum Experiments</i></td>
+      <td style="border: 1px solid black;">1 PM - 2 PM</td>
+      <td style="border: 1px solid black;">Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca"><b>Zijian Zhang</b></a>, Ph.D. Student, Vector Institute at the University of Toronto, <i>AI Agents for Quantum Experiments</i></td>
     </tr>
     <tr>
-      <td>2 PM - 3 PM</td>
-      <td>Invited Talk: <a href="https://guangyuwanglab.github.io/web/"><b>Dr. Guangyu Wang</b></a>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <i>Foundation Models for Multi-Omics and Spatial Omics</i></td>
+      <td style="border: 1px solid black;">2 PM - 3 PM</td>
+      <td style="border: 1px solid black;">Invited Talk: <a href="https://guangyuwanglab.github.io/web/"><b>Dr. Guangyu Wang</b></a>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <i>Foundation Models for Multi-Omics and Spatial Omics</i></td>
     </tr>
   </tbody>
 </table>
