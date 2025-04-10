@@ -25,11 +25,13 @@ The registration deadline is **Sunday, April 27, 2025**. Here is the registratio
   
 ## Workshop Schedule
 {% raw %}
+
 |  Time  | Event |
 | -------- | ------- |
 | 12:30 PM - 1 PM  | Student Research Highlights |
 | 1 PM - 2 PM | Invited Talk: [**Zijian Zhang**](https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca), Ph.D. Student, Vector Institute at the University of Toronto, _AI Agents for Quantum Experiments_ |
 | 2 PM - 3 PM | Invited Talk: [**Dr. Guangyu Wang**](https://guangyuwanglab.github.io/web/), Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, _Foundation Models for Multi-Omics and Spatial Omics_ |
+
 {% endraw %}
 
 ## Sponsor
