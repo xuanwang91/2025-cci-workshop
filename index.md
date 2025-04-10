@@ -65,3 +65,5 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
 
 ## Sponsor
 [**Commonwealth Cyber Initiative (CCI)**](https://cyberinitiative.org/)
+
+{% include figure.html img="cci.png" alt="intro image here" width="60%" %}
