@@ -42,8 +42,8 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
 <table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
   <thead>
     <tr>
-      <th style="width: 160px; border: 1px solid black; padding: 8px;">Time</th>
-      <th style="border: 1px solid black; padding: 8px;">Event</th>
+      <th style="width: 160px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Time</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Event</th>
     </tr>
   </thead>
   <tbody>
@@ -52,8 +52,8 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
       <td style="border: 1px solid black; padding: 8px;">Student Research Highlights</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">1 PM - 2 PM</td>
-      <td style="border: 1px solid black; padding: 8px;"><b>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca">Zijian Zhang</a></b>, Ph.D. Student, Vector Institute at the University of Toronto, <b><i>AI Agents for Quantum Experiments</i></b></td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">1 PM - 2 PM</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;"><b>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca">Zijian Zhang</a></b>, Ph.D. Student, Vector Institute at the University of Toronto, <b><i>AI Agents for Quantum Experiments</i></b></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px;">2 PM - 3 PM</td>
