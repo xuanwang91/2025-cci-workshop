@@ -39,10 +39,10 @@ Below is a tentative schedule for our workshop:
 |  |  |
 -->
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <thead>
     <tr>
-      <th style="min-width: 200px;">Time</th>
+      <th style="width: 200px;">Time</th>
       <th>Event</th>
     </tr>
   </thead>
