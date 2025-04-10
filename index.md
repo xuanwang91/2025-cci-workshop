@@ -28,7 +28,7 @@ The registration deadline is **Sunday, April 27, 2025**. Here is the registratio
 
 
 ## Workshop Schedule
-Below is a tentative schedule for our workshop:
+Below is a tentative schedule for our workshop. We look forward to seeing everyone at the workshop!
 
 <!--
 |  Time | Event |
@@ -59,14 +59,8 @@ Below is a tentative schedule for our workshop:
       <td>2 PM - 3 PM</td>
       <td>Invited Talk: <a href="https://guangyuwanglab.github.io/web/"><b>Dr. Guangyu Wang</b></a>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <i>Foundation Models for Multi-Omics and Spatial Omics</i></td>
     </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-    </tr>
   </tbody>
 </table>
-
-We look forward to seeing everyone at the workshop!
 
 
 ## Sponsor
