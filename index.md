@@ -30,12 +30,37 @@ The registration deadline is **Sunday, April 27, 2025**. Here is the registratio
 ## Workshop Schedule
 Below is a tentative schedule for our workshop:
 
+<!--
 |  Time | Event |
 | -------- | ------- |
 | 12:30 PM - 1 PM  | Student Research Highlights |
 | 1 PM - 2 PM | Invited Talk: [**Zijian Zhang**](https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca), Ph.D. Student, Vector Institute at the University of Toronto, _AI Agents for Quantum Experiments_ |
 | 2 PM - 3 PM | Invited Talk: [**Dr. Guangyu Wang**](https://guangyuwanglab.github.io/web/), Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, _Foundation Models for Multi-Omics and Spatial Omics_ |
 |  |  |
+-->
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 200px;">Time</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12:30 PM - 1 PM</td>
+      <td>Student Research Highlights</td>
+    </tr>
+    <tr>
+      <td>1 PM - 2 PM</td>
+      <td>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca"><b>Zijian Zhang</b></a>, Ph.D. Student, Vector Institute at the University of Toronto, <i>AI Agents for Quantum Experiments</i>i></td>
+    </tr>
+    <tr>
+      <td>2 PM - 3 PM</td>
+      <td>Invited Talk: <a href="https://guangyuwanglab.github.io/web/"><b>Dr. Guangyu Wang</b></a>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <i>Foundation Models for Multi-Omics and Spatial Omics</i></td>
+    </tr>
+  </tbody>
+</table>
 
 We look forward to seeing everyone at the workshop!
 
