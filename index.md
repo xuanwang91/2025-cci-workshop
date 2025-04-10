@@ -42,7 +42,7 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
 <table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
   <thead>
     <tr>
-      <th style="width: 180px; border: 1px solid black; padding: 8px;">Time</th>
+      <th style="width: 160px; border: 1px solid black; padding: 8px;">Time</th>
       <th style="border: 1px solid black; padding: 8px;">Event</th>
     </tr>
   </thead>
