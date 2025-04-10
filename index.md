@@ -59,6 +59,10 @@ Below is a tentative schedule for our workshop:
       <td>2 PM - 3 PM</td>
       <td>Invited Talk: <a href="https://guangyuwanglab.github.io/web/"><b>Dr. Guangyu Wang</b></a>, Director of Center for Bioinformatics and Computational Biology (CB2), Associate Professor of Computational Biology, Houston Methodist, Weill Cornell Medical College, <i>Foundation Models for Multi-Omics and Spatial Omics</i></td>
     </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
