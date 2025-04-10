@@ -24,7 +24,7 @@ The registration deadline is **Sunday, April 27, 2025**. Here is the registratio
 - [**Jun Hou**](https://www.linkedin.com/in/jun-hou-1392b8149/), PhD Student, Department of Computer Science, Virginia Tech
   
 ## Workshop Schedule
-Below is a tentative schedule for our workshop.
+Below is a tentative schedule for our workshop:
 
 |  Time  | Event |
 | -------- | ------- |
