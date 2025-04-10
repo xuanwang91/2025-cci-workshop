@@ -42,7 +42,7 @@ Below is a tentative schedule for our workshop:
 <table>
   <thead>
     <tr>
-      <th style="width: 800px;">Time</th>
+      <th style="width:1200px;">Time</th>
       <th>Event</th>
     </tr>
   </thead>
