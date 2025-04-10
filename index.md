@@ -53,7 +53,7 @@ Below is a tentative schedule for our workshop:
     </tr>
     <tr>
       <td>1 PM - 2 PM</td>
-      <td>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca"><b>Zijian Zhang</b></a>, Ph.D. Student, Vector Institute at the University of Toronto, <i>AI Agents for Quantum Experiments</i>i></td>
+      <td>Invited Talk: <a href="https://www.linkedin.com/in/zijian-zhang-uoft/?originalSubdomain=ca"><b>Zijian Zhang</b></a>, Ph.D. Student, Vector Institute at the University of Toronto, <i>AI Agents for Quantum Experiments</i></td>
     </tr>
     <tr>
       <td>2 PM - 3 PM</td>
