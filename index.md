@@ -5,7 +5,7 @@ layout: page
 
 # 2025 CCI Workshop: AI for Science with Foundation Models
 
-Time: **12:30 PM - 3:PM ET, Thursday, May 1st, 2025**
+Time: **12:30 PM - 3:00 PM ET, Thursday, May 1st, 2025**
 
 Location: **Data and Decision Sciences Building, Room TBD, Virginia Tech**
 
