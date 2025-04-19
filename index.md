@@ -7,9 +7,9 @@ layout: page
 
 Time: **12:30 PM - 3:00 PM ET, Thursday, May 1st, 2025**
 
-Location: **Data and Decision Sciences Building, Room TBD, Virginia Tech**
+Location: **Data and Decision Sciences Building, Room 366, Virginia Tech**
 
-Zoom Link: **TBD**
+Zoom Link: **[https://virginiatech.zoom.us/j/8682759193](https://virginiatech.zoom.us/j/8682759193)**
 
 
 ## Workshop at a Glance
