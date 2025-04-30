@@ -47,9 +47,9 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
       <td style="border: 1px solid black; padding: 8px;">
         <b>Student Research Highlights:</b>
         <ul style="margin: 8px 0 0 16px; padding-left: 0;">
-          <li><i>HippoFlow: Personalized Linguistic Embeddings for Predicting SMS Authorship and Personality Traits</i>, Rhys Jones, Mikey Harrigan, Carissa Bostian</li>
-          <li><i>Deep Learning Surrogate Model for Property Prediction of Metal Organic Frameworks</i>, Padmapriya Rengasamy, Atharva Anchalwar</li>
-          <li><i>2-D Rocket Landing Using Reinforcement Learning</i>, Jordan Holmes, Adam Lee, Rayan Bouhal</li>
+          <li>Rhys Jones, Mikey Harrigan, Carissa Bostian: <i>HippoFlow: Personalized Linguistic Embeddings for Predicting SMS Authorship and Personality Traits</i></li>
+          <li>Padmapriya Rengasamy, Atharva Anchalwar: <i>Deep Learning Surrogate Model for Property Prediction of Metal Organic Frameworks</i></li>
+          <li>Jordan Holmes, Adam Lee, Rayan Bouhal: <i>2-D Rocket Landing Using Reinforcement Learning</i></li>
         </ul>
       </td>
     </tr>
