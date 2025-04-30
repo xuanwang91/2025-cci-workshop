@@ -44,7 +44,14 @@ Below is a tentative schedule for our workshop. We look forward to seeing everyo
   <tbody>
     <tr>
       <td style="border: 1px solid black; padding: 8px;">12:30 PM - 1 PM</td>
-      <td style="border: 1px solid black; padding: 8px;">Student Research Highlights</td>
+      <td style="border: 1px solid black; padding: 8px;">
+        <b>Student Research Highlights</b>
+        <ul style="margin: 8px 0 0 16px; padding-left: 0;">
+          <li><i>HippoFlow: Personalized Linguistic Embeddings for Predicting SMS Authorship and Personality Traits</i> Rhys Jones, Mikey Harrigan, Carissa Bostian</li>
+          <li><i>Deep Learning Surrogate Model for Property Prediction of Metal Organic Frameworks</i>, Padmapriya Rengasamy, Atharva Anchalwar</li>
+          <li><i>2-D Rocket Landing Using Reinforcement Learning</i>, Jordan Holmes, Adam Lee, Rayan Bouhal</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">1 PM - 2 PM</td>
